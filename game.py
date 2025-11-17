@@ -1,6 +1,7 @@
 # I acknowledge the use of ChatGPT (OpenAI, GPT-5.1) to co-create the code in this file.
 # TODO: add difficulty levels later
 
+
 import tkinter as tk
 import random
 
