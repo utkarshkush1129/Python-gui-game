@@ -1,6 +1,7 @@
 # I acknowledge the use of ChatGPT (OpenAI, GPT-5.1) to co-create the code in this file.
 # TODO: add difficulty levels later
 # temporary change to create merge commit
+# added second temporary change for merge
 
 
 import tkinter as tk
