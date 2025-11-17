@@ -10,6 +10,8 @@ class ClickGame:
         self.root = root
         self.root.title("Click the Target! v2")
 
+
+
         self.score = 0
         self.time_left = 20
 
